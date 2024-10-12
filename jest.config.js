@@ -12,3 +12,5 @@ module.exports = {
   ],
   testMatch: ['**/?(*.)+(spec|test).[jt]s?(x)']
 }
+/* my very first fork and clone of a git public repository i feel really proud of myself because i used the command line
+i am happy with what i can acheive */
